@@ -27,4 +27,7 @@ func main() {
 	quote on either side.`
 	fmt.Println(b)
 
+	//Escape Characters
+	fmt.Println("Sammy says, \"Hello!\"")
+	fmt.Println("This string\nspans multiple\nlines.")
 }
